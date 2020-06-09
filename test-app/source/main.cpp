@@ -91,12 +91,14 @@ namespace outer
 		int x;
 	};
 
-	constexpr auto str =
-		"frejuvhefiugghevfevevrbvrvrtvtrfrfrigheghiehrgiurghrtiughrgiuhgieugheiughiuvvheriruherigurehngiherhgureigherighrig";
+	constexpr auto short_string = "This is a short string!";
 
-	constexpr auto str2 =
-		"This is the first line\n"
-		"This is the second line\n";
+	constexpr auto long_string =
+		"This is a looooooooooooooooooooooooooooooooooooooooooooong string!";
+
+	constexpr auto multi_string =
+		"This is the first line!\n"
+		"This is the second line!\n";
 }
 
 auto main( int num_arguments, char* arguments[] ) -> int
