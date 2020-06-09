@@ -5,12 +5,12 @@
 #include <functional>
 #include <iostream>
 
+#include <stdexcept>
 #include <limits>
 #include <memory>
 #include <random>
 #include <regex>
 #include <sstream>
-#include <stdexcept>
 #include <string>
 #include <string_view>
 #include <thread>
