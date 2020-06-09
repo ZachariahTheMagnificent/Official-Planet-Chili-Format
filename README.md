@@ -1,5 +1,5 @@
 # The official Planet Chili Coding Format!
- The official Planet Chili coding format is here! Now you too can code ~~close enough to~~ *exactly* like Chili with this tool!
+ The official Planet Chili coding format is here! Now you too can code ~~close enough to~~ *exactly* like Chili with this .clang-format file!
 
  ## Usage
  Just place the .clang-format file in your project's root directory and open the project in Visual Studio. Now the editor should auto format your code to the Chili Gold Standard!
