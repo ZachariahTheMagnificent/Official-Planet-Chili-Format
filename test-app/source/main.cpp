@@ -128,7 +128,7 @@ auto main( int num_arguments, char* arguments[] ) -> int
 		}
 	}
 
-	if( true )
+	if( false && !true )
 	{
 		int x = 12;
 	}
@@ -140,7 +140,6 @@ auto main( int num_arguments, char* arguments[] ) -> int
 	{
 		int x = 69;
 	}
-
 
 	double                     xg      = 12;           // sum comment
 	int                        ygfeett = (int)2355.35; // sum other comment
